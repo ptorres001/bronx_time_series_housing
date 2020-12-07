@@ -4,4 +4,4 @@ In an earlier project, I used a variety of techniques to identify which neighbor
 
 
 # Overview
-In a previous project, I used a clustering algorithm 
+This time series project will try and predict the housing prices for the zip codes in the Bronx that have been identified as gentrified. 
